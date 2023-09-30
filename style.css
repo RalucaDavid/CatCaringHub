@@ -47,6 +47,7 @@ a, .second_text{
     font-size:48px;
     color:#F9FAF8;
     margin-bottom: 10px;
+    font-weight:bold;
 }
 
 .button{
@@ -62,4 +63,33 @@ a, .second_text{
 .image{
     height:auto;
     max-width: 600px;
+}
+
+.header_info{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:25px;
+    font-size: 36px;
+    color:#1F2937;
+    font-weight:bold;
+}
+
+.image2{
+    height:200px;
+    width:200px;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
+
+.information{
+    display:flex;
+    justify-content: center;
+    gap:40px;
+    flex-wrap: wrap;
+}
+
+.text{
+    display:flex;
+    justify-content: center;
 }
