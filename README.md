@@ -12,5 +12,5 @@ The final result:
 ![image](https://github.com/RalucaDavid/PetCaringHub/assets/117584603/3877dec6-b515-41b6-b71a-0b1c7e3c713d)
 ![image](https://github.com/RalucaDavid/PetCaringHub/assets/117584603/e5ee0cc2-cf13-41e4-94bb-5ee3de367cca)
 
-
+Note: Has some problems with mobile platforms
 
