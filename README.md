@@ -4,6 +4,6 @@ This project consists in creating a website which has the template below. The sk
 
 The template:
 
-![01](https://github.com/RalucaDavid/CatCaringHub/assets/117584603/94c78aa0-edd3-4d7e-95cf-1419c1f9eb5d)
+![Untitled Project](https://github.com/RalucaDavid/PetCaringHub/assets/117584603/ed725eb7-5eee-4969-8687-e047c334fda2)
 
-![02](https://github.com/RalucaDavid/CatCaringHub/assets/117584603/53c43f31-c628-4cf9-8b33-23acb041d61e)
+
