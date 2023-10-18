@@ -79,6 +79,8 @@ a, .second_text{
     border: 1px solid #3882F6;
     font-weight: bold;
     margin-top: 10px;
+    width: 150px;
+    height: 50px;
 }
 
 .button2{
@@ -142,7 +144,7 @@ a, .second_text{
     font-size:36px;
     color:#1F2937;
     font-style:italic;
-    max-width: 1200px;
+    max-width: 1000px;
     max-height: 500px;
 }
 
@@ -160,6 +162,8 @@ a, .second_text{
 }
 
 .sign_up_box{
+    width: 1200px;
+    height: 70px;
     background-color:#3882F6;
     padding:40px;
     border-radius: 8px;
