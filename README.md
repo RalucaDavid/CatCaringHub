@@ -8,9 +8,9 @@ The template:
 
 The final result:
 
-![image](https://github.com/RalucaDavid/PetCaringHub/assets/117584603/cc8d9503-99dd-4d52-a3b6-c85d99eb5d37)
-![image](https://github.com/RalucaDavid/PetCaringHub/assets/117584603/3877dec6-b515-41b6-b71a-0b1c7e3c713d)
-![image](https://github.com/RalucaDavid/PetCaringHub/assets/117584603/e5ee0cc2-cf13-41e4-94bb-5ee3de367cca)
+![image](https://github.com/RalucaDavid/PetCaringHub/assets/117584603/bc477c26-aafd-4a5a-b7bd-59cf3d076f3f)
+![image](https://github.com/RalucaDavid/PetCaringHub/assets/117584603/5dbb761e-681d-411d-9368-b9def9013075)
+![image](https://github.com/RalucaDavid/PetCaringHub/assets/117584603/75da6ece-9621-4f4b-93c7-36398c0b7efd)
 
 Note: Has some problems with mobile platforms
 
